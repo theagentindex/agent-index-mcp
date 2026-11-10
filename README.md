@@ -24,7 +24,7 @@ The server is read-only. It covers an open [CC BY 4.0](https://creativecommons.o
 ## Client config
 
 ```json
-{"mcpServers":{"agent-index":{"url":"https://theagentindex.io/api/mcp"}}}
+{"$schema":"https://agent-plugins.org/schemas/1.0.0/mcp.schema.json","mcpServers":{"agent-index":{"type":"streamable-http","url":"https://theagentindex.io/api/mcp"}}}
 ```
 
 The same object is in [`mcp.json`](mcp.json).
