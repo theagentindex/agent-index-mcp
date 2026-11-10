@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "agent-index": {
+      "url": "https://theagentindex.io/api/mcp"
+    }
+  }
+}
