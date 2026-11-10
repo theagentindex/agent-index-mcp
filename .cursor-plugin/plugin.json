@@ -1,0 +1,11 @@
+{
+  "name": "agent-index",
+  "version": "1.1.0",
+  "description": "Thin public wrapper for the Agent Index remote MCP server. Read-only Streamable HTTP, no authentication. Published by Heritage Services.",
+  "author": { "name": "Heritage Services", "email": "sales@heritageservices.online" },
+  "homepage": "https://theagentindex.io",
+  "repository": "https://github.com/theagentindex/agent-index-mcp",
+  "license": "MIT",
+  "keywords": ["grc", "compliance", "soc2", "iso27001", "audit", "security", "ai-agents", "open-data"],
+  "logo": "assets/agent-index-512.png"
+}
