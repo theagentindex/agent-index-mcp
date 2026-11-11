@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.theagentindex/agent-index",
+  "title": "Agent Index — GRC & Compliance",
+  "description": "GRC & compliance directory for AI assistants: audit firms and GRC/security AI agents. Read-only.",
+  "version": "1.2.0",
+  "websiteUrl": "https://theagentindex.io",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://theagentindex.io/api/mcp"
+    }
+  ]
+}
