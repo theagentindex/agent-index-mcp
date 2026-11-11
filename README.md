@@ -1,6 +1,6 @@
-# Agent Index MCP
+# Agent Index — GRC & Compliance
 
-Thin public wrapper for the [Agent Index](https://theagentindex.io) remote MCP server, published by Heritage Services. This repository does not contain the site, the dataset, or a bundled server. It points clients at the hosted endpoint.
+GRC & compliance directory for AI assistants: free, read-only search of compliance audit firms (SOC 2, ISO 27001, PCI DSS, HITRUST, FedRAMP, CMMC) and GRC/security AI agents, cross-checked against official registries. By Heritage Services, publisher of theagentindex.io. Not affiliated with other projects named Agent Index.
 
 The server is read-only. It covers an open [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) dataset of governance, risk, compliance, and security AI agents, plus compliance audit firms. DOI: [10.5281/zenodo.23604511](https://doi.org/10.5281/zenodo.23604511).
 
@@ -10,7 +10,7 @@ The server is read-only. It covers an open [CC BY 4.0](https://creativecommons.o
 - Transport: Streamable HTTP
 - Authentication: none
 - Protocol version: `2025-03-26`
-- Official MCP Registry: `io.theagentindex/agent-index` 1.1.0
+- Official MCP Registry: `io.theagentindex/agent-index` 1.2.0
 
 ## Tools
 
