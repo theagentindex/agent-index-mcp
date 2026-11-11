@@ -10,7 +10,7 @@ The server is read-only. It covers an open [CC BY 4.0](https://creativecommons.o
 - Transport: Streamable HTTP
 - Authentication: none
 - Protocol version: `2025-03-26`
-- Official MCP Registry: `io.theagentindex/agent-index` 1.2.0
+- Official MCP Registry: `io.theagentindex/agent-index` 1.2.1
 
 ## Tools
 

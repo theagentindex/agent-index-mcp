@@ -3,8 +3,19 @@
   "name": "io.theagentindex/agent-index",
   "title": "Agent Index — GRC & Compliance",
   "description": "GRC & compliance directory for AI assistants: audit firms and GRC/security AI agents. Read-only.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "websiteUrl": "https://theagentindex.io",
+  "repository": {
+    "url": "https://github.com/theagentindex/agent-index-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://theagentindex.io/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
