@@ -29,6 +29,8 @@ The server is read-only. It covers an open [CC BY 4.0](https://creativecommons.o
 
 The same object is in [`mcp.json`](mcp.json).
 
+Send a User-Agent header with your requests. Some hosting layers block the default Python-urllib User-Agent; httpx, Node and the official MCP SDKs work as they are.
+
 ## Links
 
 - Docs: https://theagentindex.io/data/#mcp
